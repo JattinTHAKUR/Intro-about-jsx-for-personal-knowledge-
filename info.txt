@@ -1,0 +1,8 @@
+Jsx is nothing but a html which is wearing a mask of javascript i.e. the whole code is written in Js but the name and classes are used just like html that is why it is called jsx.
+
+Jsx is nothing but simple HTML, which is replaced by {
+    class => className 
+    for => htmlFor
+    tab => indexTab
+    
+}
